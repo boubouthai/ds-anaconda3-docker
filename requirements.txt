@@ -1,0 +1,7 @@
+scrapy
+selenium
+pyodbc
+pyspark
+nltk
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurators
